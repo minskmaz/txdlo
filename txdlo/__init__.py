@@ -1,3 +1,3 @@
-from dlo import DeferredListObserver
+from .dlo import DeferredListObserver
 
 __all__ = [ 'DeferredListObserver' ]
